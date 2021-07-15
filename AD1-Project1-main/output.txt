@@ -1,0 +1,12 @@
+mumbai     	pune    	  ==    147.776 km.
+ahmedabad     	surat    	  ==    262.815 km.
+surat     	pune    	  ==    415.527 km.
+delhi     	kanpur    	  ==    495.51 km.
+nagpur     	hyderabad    	  ==    500.796 km.
+hyderabad     	pune    	  ==    561.654 km.
+nagpur     	kanpur    	  ==    736.673 km.
+bangalore     	pune    	  ==    840.206 km.
+kanpur     	kolkata    	  ==    1002.434 km.
+
+
+Cost of spanning tree: 4963.391 Km.

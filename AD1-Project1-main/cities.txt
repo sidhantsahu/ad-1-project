@@ -1,0 +1,10 @@
+0 mumbai
+1 nagpur
+2 delhi
+3 hyderabad 
+4 kanpur
+5 bangalore
+6 ahmedabad
+7 kolkata
+8 surat
+9 pune
